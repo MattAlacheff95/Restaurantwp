@@ -1,0 +1,40 @@
+a {
+	font-family: serif;
+	text-decoration: none;
+	font-weight: none;
+}
+a:link {
+	color: blue;
+}
+a:visited {
+	color: red;
+}
+a:hover {
+	color: black;
+	font-weight: bold;
+}
+.page-header {
+	font-family: fantasy;
+	padding-bottom: 10px;
+}
+.nav {
+	padding-left: 20px; 
+	border-top: 2px solid #000; 
+	border-bottom: 2px solid #000; 
+	padding-top: 10px;
+	padding-bottom: 10px;
+}
+#Links {
+	padding-top: 20px;
+	padding-bottom: 20px;
+}
+.links {
+	margin-right: 30px;
+}
+.page-footer {
+	text-align: center;
+	border-top: 2px solid #000;
+}
+#add {
+	padding-top: 20px;
+}
